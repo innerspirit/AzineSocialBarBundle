@@ -1,11 +1,15 @@
 {
-    "name": "azine/socialbar-bundle",
+    "name": "innerspirit/socialbar-bundle",
     "type": "symfony-bundle",
-    "description": "Bundle to easily add a social-bar to your pages ",
+    "description": "Bundle to easily add a social-bar to your pages, updated for Symfony 3 compatibility",
     "keywords": ["social bar", "social", "share", "share button", "like", "like button"],
-    "homepage": "https://github.com/azine/AzineSocialBarBundle.git",
+    "homepage": "https://github.com/innerspirit/AzineSocialBarBundle",
     "license": "MIT",
     "authors": [
+	{
+            "name": "Christian Maioli Mackeprang",
+            "email": "chris@chrismm.com"
+        },
         {
             "name": "Azine IT Services AG",
             "email": "github@azine-it.ch"
